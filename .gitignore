@@ -3,3 +3,9 @@ logs/
 __pycache__/
 node_modules/
 .env
+EOFcat << 'EOF' > .gitignore
+logs/
+*.tar.gz
+__pycache__/
+node_modules/
+.env
