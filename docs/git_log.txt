@@ -1,0 +1,15 @@
+*   0f6fa38 fix: resolve merge conflict in README.md
+|\  
+| * e0e5d74 docs: edit first line of README on develop
+| * 4acaaf8 docs: update docker execution steps in README
+| * c0d8235 chore: add docker-compose configuration file
+* | c506d93 docs: edit first line of README on main
+|/  
+| * 3874b6a feat: add Dockerfile for containerization
+|/  
+| * 2dc9731 fix: update header title in index.html
+| * 4088f7c docs: add web app documentation in README
+| * 531641d feat: add index.html for web application
+|/  
+* d8de8c1 chore: init project
+* 545087b chore: init project
